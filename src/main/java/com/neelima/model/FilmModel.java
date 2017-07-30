@@ -15,6 +15,7 @@ public class FilmModel {
 	private String rating;
 	private String special_features;
 	private String last_update;
+	private String newTest;
 
 	public int getFilm_id() {
 		return film_id;
